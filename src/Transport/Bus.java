@@ -100,4 +100,6 @@ public class Bus extends Transport implements Challenge {
     public void setTransportType(TransportType transportType) {
         this.transportType = transportType;
     }
+
+
 }
